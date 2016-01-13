@@ -2,5 +2,6 @@ Hello, World!
 Git tutorial. modified
 Features
 
+conflicts lesson 5
 Conflicts
 lesson 5 demo
